@@ -55,8 +55,8 @@
   },
   {
     "id": 10,
-    "nombre": "Consola de Videojuegos",
-    "precio": 600,
-    "stockDisponible": 5
+    "nombre": "Lapicera",
+    "precio": 5,
+    "stockDisponible": 2
   }
 ]
